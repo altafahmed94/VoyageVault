@@ -1,10 +1,10 @@
 # Description:
- JourneyHub is a web application for users to explore and book accommodations, including hotels, iconic cities, castles, and more. The platform provides a seamless booking experience with a user-friendly interface.
+ VoyageVault is a web application for users to explore and book accommodations, including hotels, iconic cities, castles, and more. The platform provides a seamless booking experience with a user-friendly interface.
 
-### 🌍 JourneyHub Project 🏡
+### 🌍 VoyageVault Project 🏡
 
 #### Project Summary
-**JourneyHub** is a comprehensive Full Stack Web Development project designed to facilitate the browsing and booking of vacation accommodations, including houses, villas, and farmhouses. This platform allows users to add their own properties to the listing, providing a diverse range of options for potential renters. Key features include a seamless booking system that simplifies the reservation process and real-time property location views via Mapbox API. To enhance user experience and security, the application supports fast login options through Google OAuth and GitHub OAuth. The application also boasts a dynamic server for responsive performance and an intuitive, aesthetically pleasing user interface, ensuring an engaging and efficient user experience.
+**VoyageVault** is a comprehensive Full Stack Web Development project designed to facilitate the browsing and booking of vacation accommodations, including houses, villas, and farmhouses. This platform allows users to add their own properties to the listing, providing a diverse range of options for potential renters. Key features include a seamless booking system that simplifies the reservation process and real-time property location views via Mapbox API. To enhance user experience and security, the application supports fast login options through Google OAuth and GitHub OAuth. The application also boasts a dynamic server for responsive performance and an intuitive, aesthetically pleasing user interface, ensuring an engaging and efficient user experience.
 
 #### Front-end 🌐
 - **Technologies Used**: HTML, CSS, JavaScript, Bootstrap, EJS
@@ -43,14 +43,14 @@
 - 💾 **Multer**: For handling file uploads
 
 #### Deployment 🚀
-The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.
+The  project has been deployed using Render, connected with MongoDB Atlas for database management.
 
 - **Live Application**: [JourneyHubProject](https://--listings.onrender.com/)
 
 #### Authors ✍️
 - **LKB189**
 
-This JourneyHub project showcases my proficiency in full-stack web development, from creating an engaging front-end to managing the back-end and database components. It allows users to search for properties and experience the key functionalities of a vacation rental platform in a seamless and secure manner.
+This VoyageVault project showcases my proficiency in full-stack web development, from creating an engaging front-end to managing the back-end and database components. It allows users to search for properties and experience the key functionalities of a vacation rental platform in a seamless and secure manner.
 
 ---
 
