@@ -45,7 +45,7 @@
 #### Deployment 🚀
 The  project has been deployed using Render, connected with MongoDB Atlas for database management.
 
-- **Live Application**: [JourneyHubProject](https://--listings.onrender.com/)
+- **Live Application**: [JourneyHubProject](https://wanderlust-travel-listings.onrender.com/)
 
 #### Authors ✍️
 - **Md Altaf Ahmed**
