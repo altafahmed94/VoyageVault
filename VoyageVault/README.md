@@ -45,10 +45,10 @@
 #### Deployment 🚀
 The  project has been deployed using Render, connected with MongoDB Atlas for database management.
 
-- **Live Application**: [JourneyHubProject](https://--listings.onrender.com/)
+- **Live Application**: [VoyageVaultProject](https://wanderlust-travel-listings.onrender.com/)
 
 #### Authors ✍️
-- **LKB189**
+- **Md Altaf Ahmed**
 
 This VoyageVault project showcases my proficiency in full-stack web development, from creating an engaging front-end to managing the back-end and database components. It allows users to search for properties and experience the key functionalities of a vacation rental platform in a seamless and secure manner.
 
