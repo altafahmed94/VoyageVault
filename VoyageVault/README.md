@@ -73,6 +73,6 @@ This JourneyHub project showcases my proficiency in full-stack web development, 
 - Passport Local Mongoose for Mongoose-Specific Authentication
 
 # Contributors:
-- Lavlesh kumar bais
-- Pankaj Gond 
-- MD Sharique
+- Md Altaf Ahmed
+- Lavlesh Kumar Bais
+- Pankaj Gond
